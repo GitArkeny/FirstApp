@@ -10,7 +10,7 @@
 - [x] 选中
 **这个是加粗**
 *斜体*
-```
+```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
