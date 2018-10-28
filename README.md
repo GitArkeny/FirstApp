@@ -17,8 +17,9 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 first|second
----   |  ---
-吃饭|喝茶
+-----|-----
+吃饭 | 喝茶
+唱歌
 
 
 
