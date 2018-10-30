@@ -21,7 +21,7 @@ first|second
 吃饭 | 喝茶
 唱歌
 
-```flow
+``` flow
 st=>start: Start
 e=>end: End
 接收用户名和密码=>operation: 接收用户名和密码
